@@ -10,7 +10,7 @@ AI assistants forget everything between sessions — and the common fixes make i
 
 ### [TheMarble](https://github.com/schmerbert/TheMarble) — persistent memory and session handoff for AI agents
 
-The main event. A manual plus six working example implementations of **marbles**: small inheritable environments for recurring AI work. Stored context is labeled by provenance (user-decided / model-inferred / unverified), writes to trusted memory pass through executable gates that can refuse, and hostile test suites — 120 tests across four suites — prove the refusals are real. Built and validated across five different AI builders (Claude Fable 5, Claude Code, Cursor, Codex). Start with `START_HERE.md`: ten minutes, one cold demo.
+The main event. A manual plus six working example implementations of **marbles**: small inheritable environments for recurring AI work. Stored context is labeled by provenance (user-decided / model-inferred / unverified), writes to trusted memory pass through executable gates that can refuse, and hostile test suites — 120 tests across four suites — prove the refusals are real. Built and validated across four different AI builders (Claude Fable 5, Claude Code, Cursor, Codex). Start with `START_HERE.md`: ten minutes, one cold demo.
 
 **Use it if:** your agent's memory drifts, your CLAUDE.md contradicts your code, or every new session starts from archaeology.
 
